@@ -10,4 +10,4 @@ Completed stories:
   - Add a UITextField with a background image.
   - Add UILabels with attributed text (instead of plain text), so that you can bold individual words.
 
-GIF Walkthrough:
+GIF Walkthrough: https://raw.githubusercontent.com/derrickdoo/ios_hw1/master/walkthrough.gif
